@@ -1,4 +1,2 @@
-#!/bin/sh
-echo Test text 1
-echo Hello everybody!
-echo Finish
+Test text 1
+Hello everybody!
